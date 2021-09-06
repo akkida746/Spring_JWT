@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Bean;
 import java.util.Optional;
 
 //https://www.javainuse.com/spring/boot-jwt
+//https://markheath.net/post/exploring-redis-with-docker
 @SpringBootApplication
 public class SpringJwtApplication {
 
